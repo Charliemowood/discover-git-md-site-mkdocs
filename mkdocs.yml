@@ -1,9 +1,8 @@
 site_name: Discover Git
-CNAME
 pages:
      - Home: index.md
      - About: about.md
+
 theme: readthedocs
 extra_css:
     - css/extra.css
- 
