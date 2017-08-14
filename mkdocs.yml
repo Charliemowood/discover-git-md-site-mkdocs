@@ -1,4 +1,5 @@
-site_name: Discover Git 
+site_name: Discover Git
+CNAME
 pages:
      - Home: index.md
      - About: about.md
