@@ -1,0 +1,39 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Five useful git commands:\n\n\nCommands\n\n\n\n\ngit add --all\n - Adds all changes that you have made.\n\n\ngit commit -m\n - Commit your changes to Git history and submit a commit message.\n\n\ngit push -u master\n - Push changes to remote repository branch.\n\n\ngit status\n - Allows you to check status of the changes you have made.\n\n\ngit log\n - Check the history of all commits to the branch you are currently on.\n\n\n\n\nSteps to be productive in Git.\n\n\n\n\nCommit often\n\n\nPush working code\n\n\nDon't panic", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#five-useful-git-commands", 
+            "text": "", 
+            "title": "Five useful git commands:"
+        }, 
+        {
+            "location": "/#commands", 
+            "text": "git add --all  - Adds all changes that you have made.  git commit -m  - Commit your changes to Git history and submit a commit message.  git push -u master  - Push changes to remote repository branch.  git status  - Allows you to check status of the changes you have made.  git log  - Check the history of all commits to the branch you are currently on.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/#steps-to-be-productive-in-git", 
+            "text": "Commit often  Push working code  Don't panic", 
+            "title": "Steps to be productive in Git."
+        }, 
+        {
+            "location": "/about/", 
+            "text": "Why make this site?\n\n\nThe goal\n\n\nThis is a series of sites that are being made with the purpose of testing static site generator. This site uses \nmkdocs.org\n.", 
+            "title": "About"
+        }, 
+        {
+            "location": "/about/#why-make-this-site", 
+            "text": "", 
+            "title": "Why make this site?"
+        }, 
+        {
+            "location": "/about/#the-goal", 
+            "text": "This is a series of sites that are being made with the purpose of testing static site generator. This site uses  mkdocs.org .", 
+            "title": "The goal"
+        }
+    ]
+}
